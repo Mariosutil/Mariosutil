@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi there, I'm Mario!
 
-<!--
-**Mariosutil/Mariosutil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently finishing the 4th year of my **Health Engineering degree** at the **University of Burgos (Spain)**.
 
-Here are some ideas to get you started:
+🧪 I completed a hospital internship at the **Nuclear Medicine Department** of the University Hospital of Burgos (HUBU).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📁 For my Bachelor's Thesis, I developed a clinical software tool for the **Intensive Care Unit (ICU)** at HUBU.  
+This project enables **intelligent search and management** of ICU discharge reports. *(Repository is private)*
+
+
+---
+
+## 🧠 About me
+
+- 👨‍💻 Passionate about healthcare technology and biomedical data.
+- 🛠️ Learning and working with:  
+  `Python`, `R`, `MATLAB`, `Git`, `Shiny`, `Arduino`.
+
+---
+## 📫 Let's connect!
+
+- 📧 mds1013@alu.ubu.es
