@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mario!
 
-🎓 I'm currently finishing the 4th year of my **Health Engineering degree** at the **University of Burgos (Spain)**.
+🎓 **Health Engineering graduate** from the **University of Burgos** (Spain), class of **2025**.
 
 🧪 I completed a hospital internship at the **Nuclear Medicine Department** of the University Hospital of Burgos (HUBU).
 
